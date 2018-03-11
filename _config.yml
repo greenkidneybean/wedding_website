@@ -14,19 +14,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Touzbers Wedding
+featured-img: img/banner.jpg
 email:
-description: #>- # this means to ignore newlines until "baseurl:"
-  WE BE GIT'N MARRIED!!!
+description: >- # this means to ignore newlines until "baseurl:"
+  :wedding: WE GIT'N MARRIED!!!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
+  - jemoji
+header_pages:
+  - rsvp.md
+  - registry.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
