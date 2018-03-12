@@ -14,10 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Touzbers Wedding
+author: Katherine and Michael
 featured-img: img/banner.jpg
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   :wedding: WE GIT'N MARRIED!!!
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:

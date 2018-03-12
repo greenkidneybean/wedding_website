@@ -5,7 +5,7 @@ date:   2018-03-11 18:00:00 -0400
 categories:
 absolute_url: http://greenkidneybean.github.io/
 ---
-![My helpful screenshot](http://greenkidneybean.github.io/_assets/test.jpg)
+![useful image](https://github.com/greenkidneybean/greenkidneybean.github.io/blob/master/_assets/img/banner.jpg)
 
 Well well well, you know it's serious when there's a website for it!  
 
