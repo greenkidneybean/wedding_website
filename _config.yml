@@ -1,5 +1,9 @@
 # Welcome to Jekyll!
 #
+# The problem is using local/custom layouts
+# this is probably due to the source in the Gemfile being a site
+# figure out how to incorporate local layouts
+#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -17,6 +21,7 @@ title: The Touzbers Wedding
 author: Katherine and Michael
 featured-img: img/banner.jpg
 email:
+favicon: assets/test.jpg
 description: >- # this means to ignore newlines until "baseurl:"
   :wedding: WE GIT'N MARRIED!!!
 
@@ -27,13 +32,16 @@ github_username:
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   #- jekyll-feed
   - jemoji
+  - jekyll-seo-tag
 header_pages:
   - rsvp.md
   - registry.md
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
