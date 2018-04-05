@@ -21,7 +21,7 @@ title: The Touzbers Wedding
 author: Katherine and Michael
 featured-img: img/banner.jpg
 email:
-favicon: assets/test.jpg
+favicon:
 description: >- # this means to ignore newlines until "baseurl:"
   :wedding: WE GIT'N MARRIED!!!
 
