@@ -9,6 +9,7 @@ layout: default
 
   {{ content }}
 
+  <p><img src="{{ '/assets/home.jpg' | prepend:site.baseurl }}" alt="Us" /></p>
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "News" }}</h2>
     <ul class="post-list">
