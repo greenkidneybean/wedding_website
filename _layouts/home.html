@@ -9,27 +9,7 @@ layout: default
 
   {{ content }}
 
-  <p><img src="{{ '/assets/home.jpg' | prepend:site.baseurl }}" alt="Us" /></p>
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "News" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-
-  {%- endif -%}
+  <p><img src="{{ '/assets/hearts.jpg' | prepend:site.baseurl }}" alt="awe, who dat?" /></p>
+  <h2 class="page-heading">{{ page.list_heading | default: "September 1st, 2018 in Granville, Ohio" }}</h2>
 
 </div>
