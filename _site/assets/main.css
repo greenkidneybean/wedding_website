@@ -361,6 +361,15 @@ table {
         font-size: 18px; } }
 
 /**
+ * Images
+ */
+.centered-and-cropped {
+  object-fit: cover;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+/**
  * Syntax highlighting styles
  */
 .highlight {

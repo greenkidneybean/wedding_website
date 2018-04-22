@@ -23,7 +23,7 @@ featured-img:
 email:
 favicon:
 description: >- # this means to ignore newlines until "baseurl:"
-  :wedding: WE GIT'N MARRIED!!!
+  :wedding: We're getting MARRIED!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -38,9 +38,13 @@ plugins:
   - jemoji
   - jekyll-seo-tag
 header_pages:
+  - home.md
   - rsvp.md
-  - registry.md
-  - weekend_details.md
+  - events.md
+  - our_story.md
+  - wedding_party.md
+  - travel.md
+  - gift_registry.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
