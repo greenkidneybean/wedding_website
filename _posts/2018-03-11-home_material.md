@@ -1,52 +1,47 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-absolute_url: http://greenkidneybean.github.io
+layout: post
+title:  "We Made a Wedding Website!"
+date:   2018-03-11 18:00:00 -0400
+categories:
+absolute_url: http://greenkidneybean.github.io/
 ---
-## The Wedding Ceremony
-### Saturday, September 1, 2018 at 2:30 PM
-[**RSVP For Wedding**](https://docs.google.com/forms/d/e/1FAIpQLSd_MzuuS82EDIATcF792774-Nrx1SGetv0fAx3lipBHtAOeoA/viewform?usp=sf_link)
+## The Wedding
 
+![Granville Inn Photo]
 
+Saturday, September 1, 2018
+2:30 PM
+[RSVP For Wedding]
 
+Ceremony
+St Edwards Catholic Church
+785 Newark Granville Rd, Granville, OH 43023, USA
+Reception
+Granville Inn
+314 East Broadway, Granville, OH 43023, USA
 
+Please join us for a celebration of marriage at St Edwards Catholic Church at 2:30PM on September 1st.
 
+Dinner, dancing, and lots of laughter to follow at the Granville Inn
 
-[**Ceremony:**](https://goo.gl/maps/TBym3DFVSvT2)  
-St. Edwards Catholic Church  
-785 Newark Granville Rd  
-Granville, OH 43023, USA  
-
-[**Reception:**](https://goo.gl/maps/cB3119F7HqL2)  
-Granville Inn  
-314 East Broadway  
-Granville, OH 43023, USA  
-
-
-
----
 ## Other Events
 
-### Welcome Dinner
+Welcome Dinner
 
-![AirBnB Photo](/assets/airbnb.jpeg)
+![AirBnB Photo]
 
-Friday, August 31, 0007  
-6:30 PM  
-Almosta Farm  
-2893 Mounts Road Northwest  
-Alexandria, OH 43001, United States  
+Friday, August 31, 0007
+6:30 PM
+Almosta Farm
+2893 Mounts Road Northwest, Alexandria, OH 43001, United States
 
 We would love to host our guests from near and far for a welcome dinner  at Almosta Farm - an Airbnb rented by the Chamber's family.  Dinner be served  from 6:30-7:30PM, drinks and relaxing until 9:00PM. If your travel plans will allow you to attend, please RSVP!
 
 [RSVP for Welcome Dinner]
 
-### Afternoon Hangout
+Afternoon hangout
 Somewhere fun? Almosta Farm or Buckeye Lake Winery?
 
----
 ## Eight Year Love Saga
 ### From Katherine:
 
@@ -60,35 +55,28 @@ Awe shucks.
 
 I really need ta put some good time and thought into this little diddy, but I will take this opportunity to say I'm s till gonna put season passes to Zoombezie Bay in our wedding registry!
 
----
 ## Wedding Party
 
-### The Bridal Party
-
-**Daniel Touzinsky - Man of Honor**
+Daniel Touzinsky - Man of Honor
 
 Daniel is Katherine's brother, and with that comes several very important titles: chief of operations for neighborhood games, flashlight tag point person, confidant, total goofball, and longest-time friend.
 
-**James Touzinsky - Groomsman**
+James Touzinsky - Groomsman
 
 James is the brides brother & the life of the party. His arrival in the Touzinsky household brought a lot of joy and an extended stay for Santa Claus, Gus the leprechaun, and other magical houseguests. While he doesn't believe in them anymore, he’s 100% likely to quote memes, have great fashion (obviously) and be up on the latest dance moves
 
-**Maura Campbell - Bridesmaid**
+Maura Campbell - Bridesmaid
 
 Maura is an cool, calm, and collected lady who does not shy away from the quirky (100% a requirement to be bbf's with the bride).  She's turned her eye for the unusual into a passion - something you'll witness if you're lucky enough to catch one of her video art exhibitions. She's been a source of inspiration and silly jokes for Katherine since '02!
-
-**Erin McKenna - Bridesmaid**
+Erin McKenna - Bridesmaid
 
 Erin has been the bride's friend for 20 years. They grew up on Liberty Lane and brought quite a bit of ridiculous fun to the heart of Ohio's 'burbs. She's often moved to tears over beautiful colors, and lights up the world with passion, dedication, and zest everywhere she goes!
-
-**Valerie Vogt - Bridesmaid**
+Valerie Vogt - Bridesmaid
 
 Valerie is the bride's friend and roommate from the wonderful days at Wittenberg University.  She may look innocent, but Val is the instigator of many a dorm room dance party. She'll knock your socks off with deadpan humor and can make a costume out of everything. Literally, anything.
 
-### The Groomsman Party
 
-**John Chambers - Best Man**
-**Molly Riffon - Bridesmaid**
-**Paul Riffon - Groomsman**
-**Danny Chambers - Groomsman**
-**Sean Bresler - Groomsman**
+John Chambers - Best Man
+Sarah Kreuger - Bridesmaid
+Danny Chambers - Groomsman
+Molly Riffon - Bridesmaid
