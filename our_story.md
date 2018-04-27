@@ -13,6 +13,12 @@ Since then, we have wandered everywhere together - both literal and metaphorical
 
 ## From Michael:
 
-Awe shucks.
+So you wanna hear a 'lil about when I realized Katherine was the one?  Well I'll tell ya, but it does get a little mushy.
 
-I really need ta put some good time and thought into this little diddy, but I will take this opportunity to say I'm s till gonna put season passes to Zoombezie Bay in our wedding registry!
+It was the summer of 2013 on the banks of the Illinois River.  Katherine and I had taken a break for a few months prior (to be expected when one takes a long hike in the woods) but Asian carp brought us together.  Katherine loves fish, like so much so that that's what she chose to base her graduate thesis on.  And if Katherine is gonna do a science project you can bet your bottom dollar that there's gonna be some field work involved.  I joined naively, because I thought like she could use the help and maybe it could be fun (cause, ya know, Katherine's pretty fun).
+
+It was at the end of our third day of processing Asian carp (I say that a bit too lightly because processing Asian carp means that we've got piles of dead carp lying around a picnic shelter, attracting any fly in central Illinois that's capable of producing maggots, and we were dissecting gonads (if it's not apparent at this point, let me emphasize that this is a very mushy process)), and we were back at America's Best Value Inn (the Wenona location) weighing carp testicles on a scale in the bathroom.  I'd swooned over Katherine plenty of times before, but this swooning session was different.  I realized that (1) Katherine is one tough nugget, (2) if you're an Asian carp you'll wanna keep your distance, and (3) we shouldn't be having nearly as much fun as we were.
+
+Katherine brings a lotta laughter to life, and it's one of the many things I love about her.
+
+:fish:
