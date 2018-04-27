@@ -4,6 +4,8 @@ title: Our Story
 permalink: /our_story/
 bsolute_url: http://greenkidneybean.github.io
 ---
+<p><img src="{{ '/assets/saharah.jpg' | prepend:site.baseurl }}" alt="" /></p>
+
 # An Eight Year Love Saga
 ## From Katherine:
 
@@ -21,4 +23,4 @@ It was at the end of our third day of processing Asian carp (I say that a bit to
 
 Katherine brings a lotta laughter to life, and it's one of the many things I love about her.
 
-:fish:
+<h1 class="page-heading">:fish:</h1>

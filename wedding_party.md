@@ -11,6 +11,8 @@ absolute_url: http://greenkidneybean.github.io
 
 Daniel is Katherine's brother, and with that comes several very important titles: chief of operations for neighborhood games, flashlight tag point person, confidant, total goofball, and longest-time friend.
 
+<p><img src="{{ '/assets/banner.jpg' | prepend:site.baseurl }}" alt="" /></p>
+
 <img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/james.jpg" >
 <p style="text-align: center;"><b>James Touzinsky - Groomsman</b></p>
 
@@ -33,12 +35,17 @@ Valerie is the bride's friend and roommate from the wonderful days at Wittenberg
 
 # The Grooms Party
 
-**John Chambers - Best Man**
+<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/john.jpg" >
+<p style="text-align: center;"><b>John Chambers - The Best Man</b></p>
 
-**Molly Riffon - Bridesmaid**
+
+<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/molly.jpg" >
+<p style="text-align: center;"><b>Molly Chambers - Bridesmaid</b></p>
+
 
 **Paul Riffon - Groomsman**
 
-**Danny Chambers - Groomsman**
+<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/danny.jpg" >
+<p style="text-align: center;"><b>Danny Chambers - Groomsman</b></p>
 
 **Sean Bresler - Groomsman**
