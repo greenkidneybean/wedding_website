@@ -23,4 +23,4 @@ It was at the end of our third day of processing Asian carp (I say that a bit to
 
 Katherine brings a lotta laughter to life, and it's one of the many things I love about her.
 
-<h1 class="page-heading">:fish:</h1>
+<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/ring.jpg" >
