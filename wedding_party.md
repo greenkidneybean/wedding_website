@@ -4,7 +4,6 @@ title: Wedding Party
 permalink: /wedding_party/
 absolute_url: http://greenkidneybean.github.io
 ---
-# The Bridal Party
 
 <img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/daniel.jpg" >
 <p style="text-align: center;"><b>Daniel Touzinsky - Man of Honor</b></p>
@@ -33,19 +32,23 @@ Erin has been the bride's friend for 20 years. They grew up on Liberty Lane and 
 
 Valerie is the bride's friend and roommate from the wonderful days at Wittenberg University.  She may look innocent, but Val is the instigator of many a dorm room dance party. She'll knock your socks off with deadpan humor and can make a costume out of everything. Literally, anything.
 
-# The Grooms Party
-
 <img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/john.jpg" >
 <p style="text-align: center;"><b>John Chambers - The Best Man</b></p>
 
+He's a stud, nuf said ;)
 
 <img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/molly.jpg" >
 <p style="text-align: center;"><b>Molly Chambers - Bridesmaid</b></p>
 
+My sister!
 
 **Paul Riffon - Groomsman**
+
+Paul is not only the newest addition to our family, but a true gem.  :gem:
 
 <img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/danny.jpg" >
 <p style="text-align: center;"><b>Danny Chambers - Groomsman</b></p>
 
 **Sean Bresler - Groomsman**
+
+Sleeeeeeeeezy B!  A connoisseur of purple and lasers, and a true merfolk at heart (would you identify with that tribe?). :space_invader:
