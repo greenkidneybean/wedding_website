@@ -2,20 +2,19 @@
 layout: page
 title: Events
 permalink: /events/
-bsolute_url: http://greenkidneybean.github.io
+absolute_url: http://greenkidneybean.github.io
 ---
 # RSVP
 
-Be sure to [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSd_MzuuS82EDIATcF792774-Nrx1SGetv0fAx3lipBHtAOeoA/viewform?usp=sf_link) for the wedding!
+Be sure to [**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSd_MzuuS82EDIATcF792774-Nrx1SGetv0fAx3lipBHtAOeoA/viewform?usp=sf_link) for the wedding!
 
 ---
 
-# A Welcome Dinner - August 31st
+# A Welcome Dinner - August 31st, 6:30 PM
 
 We would love to host our guests from near and far for a welcome dinner  at Almosta Farm - an Airbnb rented by the Chamber's family.  Dinner be served  from 6:30-7:30PM, drinks and relaxing until 9:00PM. If your travel plans will allow you to attend, please RSVP!
 
-Friday, August 31, 0007  
-6:30 PM  
+[**Welcome Dinner**](https://goo.gl/maps/SjZHjQVKSY42) 
 Almosta Farm  
 2893 Mounts Road Northwest  
 Alexandria, OH 43001, United States  
