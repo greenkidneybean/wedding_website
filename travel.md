@@ -2,7 +2,7 @@
 layout: page
 title: Travel
 permalink: /travel/
-bsolute_url: http://greenkidneybean.github.io
+absolute_url: http://greenkidneybean.github.io
 ---
 # Accomodations
 
@@ -13,7 +13,7 @@ bsolute_url: http://greenkidneybean.github.io
 (740) 587-3333  
 
 The Granville Inn is a beautiful mainstay in downtown Granville where our reception will be held. If you decide to make reservations here, please use the group code "TOUZIN" for a discounted rate ($189 + tax).  
-  
+
 ---
 
 [![](/assets/courtyard.jpg)](https://goo.gl/WbxSQ7)

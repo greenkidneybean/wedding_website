@@ -2,7 +2,7 @@
 layout: page
 title: Our Story
 permalink: /our_story/
-bsolute_url: http://greenkidneybean.github.io
+absolute_url: http://greenkidneybean.github.io
 ---
 <p><img src="{{ '/assets/saharah.jpg' | prepend:site.baseurl }}" alt="" /></p>
 
