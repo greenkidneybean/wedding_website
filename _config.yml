@@ -44,7 +44,7 @@ header_pages:
   - our_story.md
   - wedding_party.md
   - travel.md
-  - gift_registry.md
+#  - gift_registry.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
