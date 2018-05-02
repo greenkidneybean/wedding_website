@@ -332,7 +332,8 @@ table {
  * Posts
  */
 .post-header {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  text-align: center; }
 
 .post-title {
   font-size: 42px;
@@ -343,7 +344,8 @@ table {
       font-size: 36px; } }
 
 .post-content {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  text-align: center; }
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
