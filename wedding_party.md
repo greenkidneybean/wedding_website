@@ -10,61 +10,72 @@ absolute_url: http://greenkidneybean.github.io
 
 Daniel is Katherine's brother, and with that comes several very important titles: chief of operations for neighborhood games, flashlight tag point person, confidant, total goofball, and longest-time friend.
 
-<p><img width="10%" height="10%" src="{{ '/assets/banners/circles_1.png' | prepend:site.baseurl }}" alt="" /></p>>
+<br>
+<p><img width="168" height="46" src="{{ '/assets/banners/circles_1.png' | prepend:site.baseurl }}" alt="" /></p>
 
-<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/james.jpg" >
+<br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/james.jpg" >
 <p style="text-align: center;"><b>James Touzinsky - Groomsman</b></p>
 
-James is the brides brother & the life of the party. His arrival in the Touzinsky household brought a lot of joy and an extended stay for Santa Claus, Gus the leprechaun, and other magical houseguests. While he doesn't believe in them anymore, he’s 100% likely to quote memes, have great fashion (obviously) and be up on the latest dance moves
+James is the brides brother & the life of the party. His arrival in the Touzinsky household brought a lot of joy and an extended stay for Santa Claus, Gus the leprechaun, and other magical houseguests. While he doesn't believe in them anymore, he’s 100% likely to quote memes, have great fashion (obviously) and be up on the latest dance moves.
 
-<p><img width="10%" height="10%" src="{{ '/assets/banners/circles_2.png' | prepend:site.baseurl }}" alt="" /></p>>
+<br>
+<p><img width="168" height="46" src="{{ '/assets/banners/circles_2.png' | prepend:site.baseurl }}" alt="" /></p>>
 
-<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/maura.jpg" >
+<br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/maura.jpg" >
 <p style="text-align: center;"><b>Maura Campbell - Bridesmaid</b></p>
 
 Maura is an cool, calm, and collected lady who does not shy away from the quirky (100% a requirement to be bbf's with the bride).  She's turned her eye for the unusual into a passion - something you'll witness if you're lucky enough to catch one of her video art exhibitions. She's been a source of inspiration and silly jokes for Katherine since '02!
 
-<p><img width="10%" height="10%" src="{{ '/assets/banners/circles_3.png' | prepend:site.baseurl }}" alt="" /></p>>
+<br>
+<p><img width="168" height="46" src="{{ '/assets/banners/circles_3.png' | prepend:site.baseurl }}" alt="" /></p>>
 
-<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/erin.jpg" >
+<br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/erin.jpg" >
 <p style="text-align: center;"><b>Erin McKenna - Bridesmaid</b></p>
 
 Erin has been the bride's friend for 20 years. They grew up on Liberty Lane and brought quite a bit of ridiculous fun to the heart of Ohio's 'burbs. She's often moved to tears over beautiful colors, and lights up the world with passion, dedication, and zest everywhere she goes!
 
-<p><img width="10%" height="10%" src="{{ '/assets/banners/circles_4.png' | prepend:site.baseurl }}" alt="" /></p>>
+<br>
+<p><img width="168" height="46" src="{{ '/assets/banners/circles_4.png' | prepend:site.baseurl }}" alt="" /></p>>
 
-<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/valerie.jpg" >
+<br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/valerie.jpg" >
 <p style="text-align: center;"><b>Valerie Vogt - Bridesmaid</b></p>
 
 Valerie is the bride's friend and roommate from the wonderful days at Wittenberg University.  She may look innocent, but Val is the instigator of many a dorm room dance party. She'll knock your socks off with deadpan humor and can make a costume out of everything. Literally, anything.
 
-<p><img width="10%" height="10%" src="{{ '/assets/banners/circles_2.png' | prepend:site.baseurl }}" alt="" /></p>>
+<br>
+<p><img width="168" height="46" src="{{ '/assets/banners/circles_2.png' | prepend:site.baseurl }}" alt="" /></p>>
 
-<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/john.jpg" >
+<br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/john.jpg" >
 <p style="text-align: center;"><b>John Chambers - The Best Man</b></p>
 
-He's a stud, nuf said ;)
+He's a stud, 'nuff said :muscle:
 
-<p><img width="10%" height="10%" src="{{ '/assets/banners/circles_3.png' | prepend:site.baseurl }}" alt="" /></p>>
+<br>
+<p><img width="168" height="46" src="{{ '/assets/banners/circles_3.png' | prepend:site.baseurl }}" alt="" /></p>>
 
-<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/molly.jpg" >
+<br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/molly.jpg" >
 <p style="text-align: center;"><b>Molly Riffon - Bridesmaid</b></p>
 
-My sister!
+My sister! :dog: :dog:
 
-<p><img width="10%" height="10%" src="{{ '/assets/banners/circles_1.png' | prepend:site.baseurl }}" alt="" /></p>>
+<br>
+<p><img width="168" height="46" src="{{ '/assets/banners/circles_1.png' | prepend:site.baseurl }}" alt="" /></p>>
 
-**Paul Riffon - Groomsman**
+<br>**Paul Riffon - Groomsman**
 
 Paul is not only the newest addition to our family, but a true gem. :gem:
 
-<p><img width="10%" height="10%" src="{{ '/assets/banners/circles_4.png' | prepend:site.baseurl }}" alt="" /></p>>
+<br>
+<p><img width="168" height="46" src="{{ '/assets/banners/circles_4.png' | prepend:site.baseurl }}" alt="" /></p>>
 
-<img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/danny.jpg" >
+<br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/danny.jpg" >
 <p style="text-align: center;"><b>Danny Chambers - Groomsman</b></p>
 
-<p><img width="10%" height="10%" src="{{ '/assets/banners/circles_3.png' | prepend:site.baseurl }}" alt="" /></p>>
+Fashion forward! :sunglasses:
 
-**Sean Bresler - Groomsman**
+<br>
+<p><img width="168" height="46" src="{{ '/assets/banners/circles_3.png' | prepend:site.baseurl }}" alt="" /></p>>
+
+<br>**Sean Bresler - Groomsman**
 
 Sleeeeeeeeezy B!  A connoisseur of purple and lasers, and a true merfolk at heart (would you identify with that tribe?). :space_invader:
