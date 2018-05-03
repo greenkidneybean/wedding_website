@@ -26,7 +26,7 @@ What I love about him is that he's always down for an adventure, and what's even
 <br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/sean.jpeg" >
 <p style="text-align: center;"><b>Sean Bresler - Groomsman</b></p>
 
-Sleeeeeeeeezy B!  A connoisseur of purple and lasers, and I dare to say he's  merfolk at heart.  On a punny note, he's brought a lotta magic to my life.  Sean's the most honest person I know and I still get infected by his enthusiasm for any given topic (lately it's been Magic the Gathering, and Trump conspiracies). Also, Sean has graciously allowed our wedding date to be shared with his birthday (Sept. 1st!), so definitely wish him a Happy Birthday when ya see him!
+Sleeeeeeeeezy B!  A connoisseur of purple and lasers, and I dare to say he's  merfolk at heart.  On a punny note, he's brought a lotta magic to my life.  Sean's the most honest person I know and I still get infected by his enthusiasm for any given topic (lately it's been Magic the Gathering, and Trump conspiracies). Also, Sean has graciously allowed our wedding date to be shared with his birthday (Sept. 1st!), so definitely wish him a Happy Birthday when ya see him!  
 :birthday:
 
 <br>
@@ -43,7 +43,7 @@ Maura is a cool, calm, and collected lady who does not shy away from the quirky 
 <br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/danny.jpg" >
 <p style="text-align: center;"><b>Danny Chambers - Groomsman</b></p>
 
-Danny boy, this kid is a ball of fun and he does it with style!  What I love about Danny is that he's always down to toss around ideas, and a sometimes a baseball at the same time.  He's also got a wonderful sense of humor that could lighten the family mood on even the worst of days (or hikes).
+Danny boy, this kid is a ball of fun and he does it with style!  What I love about Danny is that he's always down to toss around ideas, and a sometimes a baseball at the same time.  He's also got a wonderful sense of humor that could lighten the family mood on even the worst of days (or hikes).  
 :laughing:
 
 <br>
@@ -60,7 +60,7 @@ Erin has been the bride's friend for 20 years. They grew up on Liberty Lane and 
 <br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/molly.jpg" >
 <p style="text-align: center;"><b>Molly Riffon - Bridesmaid</b></p>
 
-I'm super proud of Molly for so many reasons!  She found a wonderful spouse (Paul is an absolute gem, I'll get to him next), she just graduated and is now officially a physical therapist, and she brought all the dogs into our family!  I was thrilled to be a part of her wedding and I'm thrilled yet again to have her be a part of mine.
+I'm super proud of Molly for so many reasons!  She found a wonderful spouse (Paul is an absolute gem, I'll get to him next), she just graduated and is now officially a physical therapist, and she brought all the dogs into our family!  I was thrilled to be a part of her wedding and I'm thrilled yet again to have her be a part of mine.  
 :dog: :dog:
 
 <br>
@@ -69,7 +69,7 @@ I'm super proud of Molly for so many reasons!  She found a wonderful spouse (Pau
 <br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/paul.jpeg" >
 <p style="text-align: center;"><b>Paul Riffon - Groomsman</b></p>
 
-Paul is not only the newest addition to our family, but a true gem!  I'm totally getting ahead of myself here because I still need to ask him if he'd be game to be a groomsman (asking him this weekend after Molly's graduation, fingers crossed he says YES!), but regardless, this is just a lovely opportunity to say how pumped I am to have a new brother (not that the old brothers are duds, cause they're definitely not) and I'm hoping he can help me improve my woodworking skillz!
+Paul is not only the newest addition to our family, but a true gem!  I'm totally getting ahead of myself here because I still need to ask him if he'd be game to be a groomsman (asking him this weekend after Molly's graduation, fingers crossed he says YES!), but regardless, this is just a lovely opportunity to say how pumped I am to have a new brother (not that the old brothers are duds, cause they're definitely not) and I'm hoping he can help me improve my woodworking skillz!  
 :gem:
 
 <br>
