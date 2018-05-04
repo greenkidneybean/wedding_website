@@ -12,7 +12,7 @@ absolute_url: http://greenkidneybean.github.io
 
 # A Welcome Dinner - August 31st, 6:30 PM
 
-We would love to host our guests from near and far for a welcome dinner  at Almosta Farm - an Airbnb rented by the Chamber's family.  Dinner be served  from 6:30-7:30PM, drinks and relaxing until 9:00PM. If your travel plans will allow you to attend, please RSVP!
+We would love to host our guests from near and far for a welcome dinner  at Almosta Farm - an Airbnb rented by the Chamber's family.  Dinner be served  from 6:30-7:30PM, drinks and relaxing until 9:00PM. If your travel plans will allow you to attend, please let us know in the RSVP!
 
 <a href="https://goo.gl/maps/SjZHjQVKSY42">
   <img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/airbnb.jpeg">
@@ -31,7 +31,7 @@ Mass: Our wedding ceremony will be a full Catholic Mass. We know this may be a l
 
 Phones & Cameras: We would like to ask that everyone is in-the-moment for the ceremony - for us, this means leaving your phones in your pocket or bag so we can see your smiling faces. After the ceremony - feel free to document anything and everything!  
 
-After the Ceremony: Please wait for a while church after the ceremony is over for to cheer us on as we head out into the world as a married couple!  
+After the Ceremony: Please wait for a bit at the church after the ceremony is over to cheer us on as we head out into the world as a married couple!  
 
 <a href="https://goo.gl/maps/TBym3DFVSvT2">
   <img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/st_edwards.jpg">
