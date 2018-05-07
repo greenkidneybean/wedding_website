@@ -38,11 +38,10 @@ plugins:
   - jemoji
   - jekyll-seo-tag
 header_pages:
-  - home.md
-  - rsvp.md
-  - events.md
   - our_story.md
+  - events.md
   - wedding_party.md
+  - rsvp.md
   - travel.md
 #  - gift_registry.md
 

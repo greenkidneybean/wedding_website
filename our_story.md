@@ -30,3 +30,7 @@ On this particular night, we were at the end of our third day of processing Asia
 Katherine brings a lot of laughter to life, and it’s one of the many, many things that I love about her.
 
 <img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/ring.jpg" >
+
+### So What's the Deal With "Toubers"?
+
+Great Question!  You may be thinking we're just huge potato fans with a terrible sense of spelling, but what we're really going after is a mash of our surnames, __Tou__zinsky and Cham__bers__, TOUBERS!
