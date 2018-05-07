@@ -26,7 +26,7 @@ What I love about him is that he's always down for an adventure, and what's even
 <br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/sean.jpeg" >
 <p style="text-align: center;"><b>Sean Bresler - Groomsman</b></p>
 
-Sleeeeeeeeezy B!  A connoisseur of purple and lasers, and I dare to say he's  merfolk at heart.  On a punny note, he's brought a lotta magic to my life.  Sean's the most honest person I know and I still get infected by his enthusiasm for any given topic (lately it's been Magic the Gathering, and Trump conspiracies). Also, Sean has graciously allowed our wedding date to be shared with his birthday (Sept. 1st!), so definitely wish him a Happy Birthday when ya see him!  
+A connoisseur of purple and lasers, and I dare to say he's merfolk at heart.  On a punny note, he's brought a lotta magic to my life.  Sean's the most honest person I know and I still get infected by his enthusiasm for any given topic (lately it's been Magic the Gathering, and Trump conspiracies). Also, Sean has graciously allowed our wedding date to be shared with his birthday (Sept. 1st!), so wish him a Happy Birthday when ya see him!  
 :birthday:
 
 <br>
