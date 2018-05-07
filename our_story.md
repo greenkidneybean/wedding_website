@@ -33,4 +33,4 @@ Katherine brings a lot of laughter to life, and it’s one of the many, many thi
 
 ### So What's the Deal With "Toubers"?
 
-Great Question!  You may be thinking we're just huge potato fans with a terrible sense of spelling, but what we're really going after is a mash of our surnames, __Tou__zinsky and Cham__bers__, TOUBERS!
+Great Question!  You may be thinking we're just huge potato fans with a terrible sense of spelling, but what we're really going after is a mash of our surnames, Tou-zinsky and Cham-bers, TOUBERS!
