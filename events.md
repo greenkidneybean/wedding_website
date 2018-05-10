@@ -6,7 +6,7 @@ absolute_url: http://greenkidneybean.github.io
 ---
 # RSVP
 
-:love_letter: Be sure to [**RSVP**](https://docs.google.com/forms/d/e/1FAIpQLSd_MzuuS82EDIATcF792774-Nrx1SGetv0fAx3lipBHtAOeoA/viewform?usp=sf_link) for the wedding!
+:love_letter: Be sure to [**RSVP**](https://goo.gl/forms/RGrGnwHa3kyo434u1) for the wedding!
 
 <p><img src="{{ '/assets/banners/banner_3.png' | prepend:site.baseurl }}" alt="" /></p>
 
