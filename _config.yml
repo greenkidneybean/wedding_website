@@ -43,7 +43,7 @@ header_pages:
   - wedding_party.md
   - rsvp.md
   - travel.md
-#  - gift_registry.md
+  - gift_registry.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
