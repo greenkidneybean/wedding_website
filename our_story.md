@@ -16,8 +16,8 @@ Since then, we have wandered everywhere together - both literal and metaphorical
 
 <br>
 <p><img width="50%" height="50%" src="{{ '/assets/banners/circles_4.png' | prepend:site.baseurl }}" alt="" /></p>>
-<br>
 
+<br>
 ## From Michael...
 
 
@@ -33,4 +33,6 @@ Katherine brings a lot of laughter to life, and it’s one of the many, many thi
 
 ### And What's The Deal With "Toubers"?
 
-Great Question!  You may be thinking we're just huge potato fans with a terrible sense of spelling, but what we're really going after is a mash of our surnames, **Tou**zinsky and Cham**bers**, **TOUBERS**!
+Great Question!  You may be thinking we're just huge potato fans with a terrible sense of spelling, but what we're really going after is a mash of our surnames, **Tou**zinsky and Cham**bers**, **TOUBERS**!  
+
+(but no, we will not be switching our last names to Toubers :relaxed:)
