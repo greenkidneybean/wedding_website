@@ -16,8 +16,8 @@ Daniel is Katherine's brother, and with that comes several very important titles
 <br><img class="centered-and-cropped" width="200" height="200" style="border-radius:50%" src="/assets/wedding_party/john.jpg" >
 <p style="text-align: center;"><b>John Chambers - The Best Man</b></p>
 
-John is a stud, but don't let it get to his head.  
-What I love about him is that he's always down for an adventure, and what's even is that he has an incredibly high tolerance for adventures gone wrong (ask him about our kayaking trip to Kelly's Island).  He's my best friend and I'm honored to have him as my best man.  
+John is a stud.  
+What I love about John is that he's always down for an adventure, and what's even better is that he has an incredibly high tolerance for adventures gone wrong (ask him about our kayaking trip to Kelly's Island).  He's my best friend and I'm honored to have him as my best man.  
 :muscle:
 
 <br>
